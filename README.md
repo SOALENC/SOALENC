@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SOALENC
+- 👋 Hi, I’m @Abobndrthefirst
 - 👀 I’m interested in R
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on R
